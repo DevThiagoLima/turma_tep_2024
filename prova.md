@@ -15,6 +15,6 @@ Período: 1º Período
 
 | Nome do Aluno  | Matrícula | Equipe   |
 |----------------|-----------|----------|
-| Aluno 1        | 123456    | Equipe A |
+| Luiz Eduardo Serafim Costa| 2024211510213| Garotos De Programa |
 | Aluno 2        | 654321    | Equipe B |
 <!-- Adicione mais alunos aqui -->
